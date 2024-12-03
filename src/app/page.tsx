@@ -22,8 +22,8 @@ export default function Home() {
         <h2 className="text-3xl font-bold mb-8">Our projects</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           <ProjectCard title="mcp-tinybird" description="An MCP server for Tinybird" href="https://github.com/tinybirdco/mcp-tinybird" />
-          <ProjectCard title="Project 2" description="Description of project 2" href="/project2" />
-          <ProjectCard title="Project 3" description="Description of project 3" href="/project3" />
+          <ProjectCard title="Coming soon!" description="This will be awesome" href="/" />
+          <ProjectCard title="Coming soon!" description="This will be even more awesome?" href="/" />
         </div>
       </main>
     </div>
